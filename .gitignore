@@ -1,0 +1,5 @@
+build/*.o
+build/vmlinux.h
+__pycache__/
+*.pyc
+.DS_Store

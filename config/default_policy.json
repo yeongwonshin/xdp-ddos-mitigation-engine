@@ -1,0 +1,10 @@
+{
+  "syn_pps_limit": 2000,
+  "udp_pps_limit": 5000,
+  "icmp_pps_limit": 1000,
+  "reputation_drop_score": 80,
+  "allowlist_enabled": true,
+  "blocklist_enabled": true,
+  "reputation_enabled": true,
+  "audit_only": true
+}

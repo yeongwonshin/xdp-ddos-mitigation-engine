@@ -1,0 +1,17 @@
+./.gitignore
+./LICENSE
+./Makefile
+./PROJECT_TREE.txt
+./README.md
+./config/default_policy.json
+./control/xdpctl.py
+./docs/architecture.md
+./docs/operations.md
+./docs/safety.md
+./ebpf/xdp_ddos_kern.c
+./scripts/attach_xdp.sh
+./scripts/build_ebpf.sh
+./scripts/detach_xdp.sh
+./sim/__init__.py
+./sim/synthetic_simulator.py
+./tests/test_policy_sim.py
